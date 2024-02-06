@@ -1,0 +1,48 @@
+
+body{
+  height: auto;
+}
+
+
+span{
+  margin-right: 15%;
+  margin-left: 10%;
+}
+
+.container{
+  margin-left: 20%;
+margin-right: 20%;
+  margin-top: 0%;
+  background-color: brown;
+  border-inline-style: calc(align-content);
+  border-color: blueviolet;
+  box-shadow: 10px;
+  
+  
+}
+
+h3{
+  margin-left: 15%;
+  margin-right: 55%;
+  
+  
+  color: blueviolet;
+  margin-bottom: 5%;
+  background-color: black;
+}
+
+.ella{
+  margin-left: 20%;
+margin-right: 20%;
+
+}
+.container1{
+  margin-left: 20%;
+margin-right: 20%;
+background-color: blueviolet;
+
+}
+i{
+  margin-right: 20%;
+  margin-left: 20%;
+}
